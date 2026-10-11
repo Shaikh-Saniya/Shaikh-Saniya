@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saniya%20Shaikh&fontSize=56&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20-%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" alt="Saniya Shaikh banner" />
 
 <a href="https://github.com/Shaikh-Saniya">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Engineering+Student;Building+AI-driven+systems+with+Python+%26+FastAPI;Computer+Vision+%7C+Anomaly+Detection+%7C+Graph+Analytics;Ex-Backend+Development+Intern+%40+ATOCONN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Engineering+Student;Building+AI-driven+systems+with+Python+%26+FastAPI;Computer+Vision+%7C+Anomaly+Detection+%7C+Graph+Analytics;Ex-Backend+Development+Intern" alt="Typing SVG" />
 </a>
 
 <br/>
