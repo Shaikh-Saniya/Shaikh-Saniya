@@ -34,7 +34,6 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 - 🎓 B.Tech in Artificial Intelligence & Data Science @ K. J. Somaiya Institute of Technology
 - 💼 Former Software Developer Intern @ ATOCONN System Labs (Spring Boot + Angular)
 - 🔭 Recently working on **VitaVoice**, **OptiRoute AI**, and **Maha-Track-AI**
-- 🎤 Award-winning public speaker (English & Marathi elocution)
 
 ---
 
@@ -162,15 +161,6 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 |---|---|---|
 | **B.Tech in Artificial Intelligence & Data Science** | K. J. Somaiya Institute of Technology, Mumbai | Jun 2025 – Present |
 | **Diploma in Computer Engineering** | Government Polytechnic Mumbai | Jul 2022 – 2025 |
-| **Secondary School Certificate (SSC)** | St. Mary's High School, Kalina, Santacruz | 2010 – 2022 |
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥉 **Academic Excellence:** Third-highest score in the second year of Computer Engineering during my diploma programme.
-- 🎤 **Public Speaking:** First place in both English and Marathi Elocution competitions, presenting complex technical concepts to diverse audiences and engaging over 100 attendees during each presentation.
-- 📜 **Android Application Development:** Certified in Android Studio, covering Java, XML, and Android SDK.
 
 ---
 
