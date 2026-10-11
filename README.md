@@ -188,11 +188,13 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaikh-Saniya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaikh-Saniya/Shaikh-Saniya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaikh-Saniya/Shaikh-Saniya/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Shaikh-Saniya/Shaikh-Saniya/output/github-snake.svg" />
+</picture>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shaikh-Saniya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
