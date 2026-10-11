@@ -1,24 +1,25 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Saniya%20Shaikh&amp;fontSize=56&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20Developer&amp;descSize=20&amp;descAlignY=60" alt="Saniya Shaikh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saniya%20Shaikh&fontSize=56&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20-%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" alt="Saniya Shaikh banner" />
 
 <a href="https://github.com/Shaikh-Saniya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=AI+%26+Data+Science+Engineering+Student;Building+AI-driven+systems+with+Python+%26+FastAPI;Computer+Vision+%7C+Anomaly+Detection+%7C+Graph+Analytics;Ex-Backend+Development+Intern+%40+ATOCONN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Engineering+Student;Building+AI-driven+systems+with+Python+%26+FastAPI;Computer+Vision+%7C+Anomaly+Detection+%7C+Graph+Analytics;Ex-Backend+Development+Intern+%40+ATOCONN" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="mailto:saniyashaikh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-saniyashaikh.dev@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Shaikh-Saniya"><img src="https://img.shields.io/badge/GitHub-Shaikh--Saniya-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="mailto:saniyashaikh.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-saniyashaikh.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<!--
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
--->
+<a href="https://github.com/Shaikh-Saniya">
+<img src="https://img.shields.io/badge/GitHub-Shaikh--Saniya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shaikh-Saniya&amp;label=Profile%20views&amp;color=7aa2f7&amp;style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shaikh-Saniya&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 
 </div>
 
@@ -41,7 +42,7 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,kotlin,js,dart&amp;perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,kotlin,js,dart&perline=6" alt="Languages" />
 
 ### AI / ML & Data Science
 
@@ -58,17 +59,17 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql,mongodb,firebase&amp;perline=6" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql,mongodb,firebase&perline=6" alt="Backend and databases" />
 
 `REST APIs` · `pgvector` · `SQL`
 
 ### Frontend & App Development
 
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,flutter,kotlin,androidstudio,threejs&amp;perline=8" alt="Frontend and app development" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,flutter,kotlin,androidstudio,threejs&perline=8" alt="Frontend and app development" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,eclipse,postman&amp;perline=7" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,eclipse,postman&perline=7" alt="Tools" />
 
 ---
 
@@ -78,36 +79,38 @@ Academically driven, quick to learn, and passionate about turning innovative ide
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/Grid-Guard-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=Grid-Guard-AI&amp;theme=tokyonight&amp;hide_border=true" alt="Grid-Guard-AI" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=Grid-Guard-AI&theme=tokyonight&hide_border=true" alt="Grid-Guard-AI" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/Corporate-fraud-detection-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=Corporate-fraud-detection-system&amp;theme=tokyonight&amp;hide_border=true" alt="Corporate-fraud-detection-system" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=Corporate-fraud-detection-system&theme=tokyonight&hide_border=true" alt="Corporate-fraud-detection-system" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/SmartDrishti-AI-Powered-Attendance-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=SmartDrishti-AI-Powered-Attendance-System&amp;theme=tokyonight&amp;hide_border=true" alt="SmartDrishti" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=SmartDrishti-AI-Powered-Attendance-System&theme=tokyonight&hide_border=true" alt="SmartDrishti" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/Delivery-route-optimizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=Delivery-route-optimizer&amp;theme=tokyonight&amp;hide_border=true" alt="Delivery-route-optimizer" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=Delivery-route-optimizer&theme=tokyonight&hide_border=true" alt="Delivery-route-optimizer" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/VitaVoice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=VitaVoice&amp;theme=tokyonight&amp;hide_border=true" alt="VitaVoice" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=VitaVoice&theme=tokyonight&hide_border=true" alt="VitaVoice" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Shaikh-Saniya/Maha-Track-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&amp;repo=Maha-Track-AI&amp;theme=tokyonight&amp;hide_border=true" alt="Maha-Track-AI" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaikh-Saniya&repo=Maha-Track-AI&theme=tokyonight&hide_border=true" alt="Maha-Track-AI" />
       </a>
     </td>
   </tr>
@@ -127,11 +130,12 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 
 <details>
 <summary><b>📦 More projects</b></summary>
+
 <br/>
 
 | Project | Stack |
 |---|---|
-| [WeatherInfo](https://github.com/Shaikh-Saniya/WeatherInfo--Real-Time-Weather-Information-Forecasts): real-time weather information and forecasts | Kotlin (Android) |
+| [WeatherInfo](https://github.com/Shaikh-Saniya/WeatherInfo--Real-Time-Weather-Information-Forecasts) | Kotlin (Android) |
 | [Exchango](https://github.com/Shaikh-Saniya/Exchango--A-Smart-Solution) | Kotlin (Android) |
 | [TrueVoice](https://github.com/Shaikh-Saniya/TrueVoice) | Kotlin (Android) |
 | [MessageMate](https://github.com/Shaikh-Saniya/MessageMate) | Dart / Flutter |
@@ -174,21 +178,21 @@ Academically driven, quick to learn, and passionate about turning innovative ide
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Saniya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Saniya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Saniya&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Shaikh-Saniya&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Saniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaikh-Saniya&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=Shaikh-Saniya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shaikh-Saniya&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="GitHub trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaikh-Saniya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shaikh-Saniya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -200,6 +204,6 @@ I'm always happy to talk about AI/ML, backend engineering, and building things t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
 </div>
