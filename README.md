@@ -19,8 +19,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shaikh-Saniya&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-
+![Profile Views](https://komarev.com/ghpvc/?username=Shaikh-Saniya&label=Profile%20Views&color=7aa2f7&style=flat-square)
 </div>
 
 ---
